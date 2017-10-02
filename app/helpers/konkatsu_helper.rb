@@ -1,0 +1,2 @@
+module KonkatsuHelper
+end
